@@ -3,7 +3,7 @@
 #include "esphome.h"
 #include "esphome/components/api/custom_api_device.h"
 #include "esphome/components/light/light_output.h"
-#include "esphome/components/fan/fan.h"
+//#include "esphome/components/fan/fan.h"
 
 #define CMD_PAIR (0x28)
 #define CMD_UNPAIR (0x45)
